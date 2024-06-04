@@ -23,7 +23,30 @@ The next evolutionary step
 
 !?[Industrial eLab Magdeburg](https://www.youtube.com/watch?v=bICfKRyKTwE)
 
-## Technologies
+## Edrys
+
+> Edrys is an open and modular remote teaching platform (and the first live LMS)
+>
+> Source: https://github.com/edrys-org
+
+    {{1}}
+![edrys](https://raw.githubusercontent.com/edrys-org/edrys/main/docs/index/screen-settings.png)
+
+### Concepts
+
+    {{0-1}}
+![edrys](https://raw.githubusercontent.com/edrys-org/edrys/main/docs/stations/structure.png)
+
+     {{1}}
+![stations](https://raw.githubusercontent.com/edrys-org/edrys/main/docs/stations/arduino-lab.png)
+
+## Edrys-Lite
+
+{{1}} WebSite: https://edrys-labs.github.io
+
+![edrys](https://raw.githubusercontent.com/edrys-labs/edrys-Lite/main/img/overview.png)
+
+### Technologies
 
 Peer-To-Peer in da Browser
 
@@ -49,13 +72,12 @@ Peer-To-Peer in da Browser
         👨🏾‍💻     👩‍💻- - - -
 ```
 
-### 1. WebRTC
+#### 1. WebRTC
 
 > The __Web Real-Time Communication__ is a free and open-source project providing web browsers and mobile applications with real-time communication (RTC) via application programming interfaces (APIs).
 > It allows audio and video communication to work inside web pages by allowing direct peer-to-peer communication, eliminating the need to install plugins or download native apps...
 >
 > _Source: [Wikpedia](https://en.wikipedia.org/wiki/WebRTC)_
-
 
     {{0-1}}
 ``` ascii
@@ -89,7 +111,7 @@ Alice 👩‍💻 <--------'          '--------- 👨🏾‍💻 Bob
 > !?[WebRTC](https://www.youtube.com/watch?v=7cbD-hFkzY0&autoplay=1&start=412)
 
 
-### 2. CRDTs
+#### 2. CRDTs
 
 > A _**C**onflict-free **R**eplicated **D**ata **T**ype_ (CRDT) is a new type of data structure[^1] that can be replicated across multiple instances in a network with the following guarantees:
 
@@ -145,11 +167,32 @@ __ Implementations__
 
       See also: https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
 
-## Edrys-Lite
-
-
-
-### Concept
-
-
 ### Demo
+
+- __WebSite:__ https://edrys-labs.github.io
+
+- __Modules:__ https://github.com/topics/edrys-module?q=edrys-lite
+
+- __Labs:__ https://github.com/topics/edrys-lab
+
+
+## What have Poland and Arnold Schwarzenegger in common?
+
+                {{1}}
+<!-- style="border: 1px solid black" -->
+> # Poland Is Pioneering the World’s First National Open Textbook Program
+>
+> Access to educational materials varies considerably across the world. Many in low- and middle-income countries do not have textbooks, and the ones that exist are often out of date. Two recent initiatives in Poland, however, are getting free, open textbooks into classrooms—textbooks that are available online and can be easily adapted, translated, and improved upon by teachers and students...
+>
+> _ Source: https://www.opensocietyfoundations.org/voices/poland-pioneering-worlds-first-national-open-textbook-program _
+>
+> The literature can be found here: https://zpe.gov.pl
+
+                {{2}}
+<!-- style="border: 1px solid black" -->
+> # Arnold Schwarzenegger’s Flexbook Initiative
+>
+> These flexbooks are open textbooks that are shared under the Creative-Commons license CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike).
+>
+> _ Source: https://www.ck12.org/fbbrowse/ _
+
