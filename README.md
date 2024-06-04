@@ -186,13 +186,30 @@ __ Implementations__
 >
 > _ Source: https://www.opensocietyfoundations.org/voices/poland-pioneering-worlds-first-national-open-textbook-program _
 >
+> {{2}} ![ZPE](media/zpe-screenshot.png)
+>
 > The literature can be found here: https://zpe.gov.pl
 
-                {{2}}
+                {{3}}
 <!-- style="border: 1px solid black" -->
 > # Arnold Schwarzenegger’s Flexbook Initiative
 >
 > These flexbooks are open textbooks that are shared under the Creative-Commons license CC-BY-NC-SA (Attribution-NonCommercial-ShareAlike).
 >
+> {{4}} ![Flexbooks](media/flexbooks-screenshot.png)
+>
 > _ Source: https://www.ck12.org/fbbrowse/ _
 
+
+                {{5}}
+<!-- style="border: 1px solid black" -->
+> # Norwegian Digital Learning Arena
+>
+> ... a joint county enterprise offering open digital learning assets for upper secondary education. In addition to being a compilation of open educational resources (OER), NDLA provides a range of other online tools for sharing and cooperation...
+>
+> {{6}} ![Norwegian Digital Learning Arena](media/ndla-screenshot.png)
+>
+> _ Source: http://ndla.no/ _
+
+                {{7}}
+![I Want You](media/i-want-you.jpg)
