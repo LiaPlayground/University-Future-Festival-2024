@@ -11,8 +11,10 @@ narrator: US English Female
 
 link:     style.css
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  Edrys-Lite remote-lab sharing presentation and demo at the University:Future Festival 2024...
+
+icon:     https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TUBAF_Logo.svg/320px-TUBAF_Logo.svg.png
+logo:     https://repository-images.githubusercontent.com/810280281/f763c0bb-b2c1-42b0-a4ec-5c91c3b29473
 
 -->
 
@@ -334,3 +336,12 @@ __ Implementations__
 
                 {{7}}
 ![I Want You](media/i-want-you.jpg)
+
+                {{8}}
+> # For What?
+>
+> {{9}} ## For translating these OERs into LiaScript on GitHub!
+>
+> {{10}}
+> * Website: https://liascript.github.io
+> * YouTube: https://www.youtube.com/@liascript4180
