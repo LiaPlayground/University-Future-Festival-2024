@@ -13,7 +13,7 @@ link:     style.css
 
 comment:  Edrys-Lite remote-lab sharing presentation and demo at the University:Future Festival 2024...
 
-icon:     https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TUBAF_Logo.svg/320px-TUBAF_Logo.svg.png
+icon:     https://cross-lab.org/content/images/2021/11/Logo-mit-5-mehrfarbig.png
 logo:     https://repository-images.githubusercontent.com/810280281/f763c0bb-b2c1-42b0-a4ec-5c91c3b29473
 
 -->
