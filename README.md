@@ -9,19 +9,140 @@ language: en
 
 narrator: US English Female
 
+link:     style.css
+
 comment:  Try to write a short comment about
           your course, multiline is also okay.
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/University-Future-Festival-2024/main/README.md)
+
+
 # RemoteLabs as OER
 
-The next evolutionary step
----------------------------
+<div class="left">
 
-## Introduction
+## The next evolutionary step
 
-!?[Industrial eLab Magdeburg](https://www.youtube.com/watch?v=bICfKRyKTwE)
+
+---
+
+André Dietrich, Sebastian Zug
+
+TU Bergakademie Freiberg
+
+---
+
+### University:Future Festival 2024
+
+### 5. Juni 2024
+
+---
+
+</div>
+
+<div class="right">
+
+![partner_map](./media/ChemistryLab.png "Abb.: Digital laboratory at TU Bergakademie Freiberg")
+
+</div>
+
+
+## Motivation
+
+                    {{0-1}}
+**************************************************
+
+`````````````````````````````````````````````````````
+
+    "$\textbf{Out Starting Point}$"                        "$\textbf{Our Vision}$"
+
+
+             Remote
+           Laboratory                                         Digital
+                                                             Laboratory
+                                                              as OER
+      ----------*-----                                       ----*----->
+ Traditional                                                        
+ Laboratory                                                          
+ Concepts
+
+
+ 2014       2017               2020     2021                   2024 ...
+
+
+
+`````````````````````````````````````````````````````
+<!-- class="highlight" -->
+> __Project:__ [Industrial eLab Projekt - Industrial eLab](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/forschung-zur-digitalen-hochschulbildung/erste-foerderlinie-zur-digitalen-hochschulbildung/industrial-elab/industrial-elab_node.html), BMBF (2017-2020), TU Freiberg, Otto-von-Guericke Universität Magdeburg - [Industrial eLab Magdeburg](https://www.youtube.com/watch?v=bICfKRyKTwE)
+
+**************************************************
+
+
+
+                     {{1-2}}
+**************************************************
+
+`````````````````````````````````````````````````````
+                                      text based
+                                   .------>
+                            OER   /   meta data
+             Remote       .------+-------->
+           Laboratory    /        \   obstacles               Digital
+                        /          .------>                  Laboratory
+                       /                                       as OER
+      ----------*-----+                                      ----*----->
+ Traditional                                                   
+ Laboratory                                                    
+ Concepts                            
+                         
+                            
+                            
+
+
+`````````````````````````````````````````````````````
+
+<!-- class="highlight" -->
+> __Project:__
+> [MOER Projekt - Multi-Autoren-Tool für OER-Inhalte](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/forschung-zur-digitalen-hochschulbildung/querschnittsprojekte/moer/moer_node.html), BMBF (2020) - TU Bergakademie Freiberg
+
+<!-- class="highlight" -->
+> __Project:__ 
+> [Programmieren im Team - DiP-iT](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/forschung-zur-digitalen-hochschulbildung/dritte-foerderlinie-zur-digitalen-hochschulbildung/dip-it/dip-it_node), BMBF, (2020-2023) - TU Bergakademie Freiberg, Otto-von-Guericke Universität Magdeburg, Humboldt Universität zu Berlin
+
+
+**************************************************
+
+
+
+                     {{2-4}}
+**************************************************
+
+`````````````````````````````````````````````````````
+                                      text based
+                                   .------>-----------.
+                            OER   /   meta data        \
+             Remote       .------+-------->             \
+           Laboratory    /        \   obstacles          \    Digital
+                        /          .------>               \  Laboratory
+                       /                                   \  as OER
+      --------O-*---O-+                                     +----*----->
+ Traditional           \                     multi-typed   /        
+ Laboratory             \                 .--->-----------+          
+ Concepts                \               /               /
+                          .----------O--+               /
+                            Digital      \  composable /
+                            Laboratories  .-----o->---'
+
+`````````````````````````````````````````````````````
+
+<!-- class="highlight" -->
+> __Project:__
+> [Crosslab](https://cross-lab.org/) - Flexibel kombinierbare Cross-Reality Labore in der Hochschullehre: zukunftsfähige Kompetenzentwicklung für ein Lernen und Arbeiten 4.0, Stiftung Innovation in der Hochschullehre (2021 - 2025) - TU Bergakademie Freiberg, TU Illmenau, TU Dortmund, Nordakademie
+
+**************************************************
+
 
 ## Edrys
 
